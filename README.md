@@ -2,7 +2,7 @@
 
 This repository contains the Python program:
 
-*Central_limit_theorem.py 
+* Central_limit_theorem.py 
 
 which can be run from the Terminal line by typing:
 
